@@ -65,3 +65,5 @@ class Nota:
                 print("Nota eliminada correctamente.")
                 return
         print("Nota no encontrada.")
+
+        hola
